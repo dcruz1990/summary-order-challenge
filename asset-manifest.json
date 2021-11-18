@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/summary-order-challenge/static/css/main.42f947a4.chunk.css",
-    "main.js": "/summary-order-challenge/static/js/main.0be19ac1.chunk.js",
-    "main.js.map": "/summary-order-challenge/static/js/main.0be19ac1.chunk.js.map",
+    "main.css": "/summary-order-challenge/static/css/main.24bc0b4d.chunk.css",
+    "main.js": "/summary-order-challenge/static/js/main.0a6eda82.chunk.js",
+    "main.js.map": "/summary-order-challenge/static/js/main.0a6eda82.chunk.js.map",
     "runtime-main.js": "/summary-order-challenge/static/js/runtime-main.c0c77f6d.js",
     "runtime-main.js.map": "/summary-order-challenge/static/js/runtime-main.c0c77f6d.js.map",
     "static/js/2.4ede058d.chunk.js": "/summary-order-challenge/static/js/2.4ede058d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.81160130.chunk.js": "/summary-order-challenge/static/js/3.81160130.chunk.js",
     "static/js/3.81160130.chunk.js.map": "/summary-order-challenge/static/js/3.81160130.chunk.js.map",
     "index.html": "/summary-order-challenge/index.html",
-    "static/css/main.42f947a4.chunk.css.map": "/summary-order-challenge/static/css/main.42f947a4.chunk.css.map",
+    "static/css/main.24bc0b4d.chunk.css.map": "/summary-order-challenge/static/css/main.24bc0b4d.chunk.css.map",
     "static/js/2.4ede058d.chunk.js.LICENSE.txt": "/summary-order-challenge/static/js/2.4ede058d.chunk.js.LICENSE.txt",
     "static/media/icon-music.f20c7787.svg": "/summary-order-challenge/static/media/icon-music.f20c7787.svg",
     "static/media/illustration-hero.73032583.svg": "/summary-order-challenge/static/media/illustration-hero.73032583.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0c77f6d.js",
     "static/js/2.4ede058d.chunk.js",
-    "static/css/main.42f947a4.chunk.css",
-    "static/js/main.0be19ac1.chunk.js"
+    "static/css/main.24bc0b4d.chunk.css",
+    "static/js/main.0a6eda82.chunk.js"
   ]
 }

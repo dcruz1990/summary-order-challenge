@@ -4,13 +4,15 @@ import image from "../../assets/img/illustration-hero.svg";
 import iconMusic from "../../assets/img/icon-music.svg";
 
 export default function OrderSummary() {
-  // const image = require("../../assets/img/illustration-hero.svg").default;
-  // const iconMusic = require("../../assets/img/icon-music.svg").default;
+  let style = {
+    height: "620px",
+  };
   return (
     <div className="flex justify-center items-center h-screen ">
       <div
         id="card"
-        className="flex flex-col rounded-2xl h-2/3 w-96 font-sans bg-white items-center"
+        className="flex flex-col rounded-2xl h-auto w-96 font-sans bg-white items-center"
+        style={style}
       >
         <img className="w-full rounded-t-2xl" src={image} alt="Hero" />
         <div className="flex flex-col items-center  p-7">

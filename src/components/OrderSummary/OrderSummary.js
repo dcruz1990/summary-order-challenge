@@ -1,8 +1,11 @@
 import React from "react";
 
+import image from "../../assets/img/illustration-hero.svg";
+import iconMusic from "../../assets/img/icon-music.svg";
+
 export default function OrderSummary() {
-  const image = require("../../assets/img/illustration-hero.svg").default;
-  const iconMusic = require("../../assets/img/icon-music.svg").default;
+  // const image = require("../../assets/img/illustration-hero.svg").default;
+  // const iconMusic = require("../../assets/img/icon-music.svg").default;
   return (
     <div className="flex justify-center items-center h-screen ">
       <div

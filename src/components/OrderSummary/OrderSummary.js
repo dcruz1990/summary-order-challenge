@@ -16,9 +16,7 @@ export default function OrderSummary() {
       >
         <img className="w-full rounded-t-2xl" src={image} alt="Hero" />
         <div className="flex flex-col items-center  p-7">
-          <p className="font-extrabold  text-2xl text-darkBlue">
-            Order Summary
-          </p>
+          <p className="font-black  text-2xl text-darkBlue">Order Summary</p>
           <p className="font-base text-desaturatedBlue mt-2 text-center">
             You can now listen to millions of songs, audiobooks, and podcasts on
             any device anywhere you like.
@@ -51,8 +49,8 @@ export default function OrderSummary() {
           >
             Proceed to Payment
           </button>
-          <p className="text-desaturatedBlue hover:text-gray-800 cursor-pointer font-semibold">
-            Cancel
+          <p className="text-desaturatedBlue hover:text-gray-800 cursor-pointer font-bold">
+            Cancel order
           </p>
         </div>
       </div>
